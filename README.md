@@ -1,5 +1,7 @@
 ## Introduction
 
+@jose-sanchez-morales 2018-04-29
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
